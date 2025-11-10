@@ -1,4 +1,4 @@
-# Outlier Detection RL Task
+# Outlier Detection RL 
 
 A reinforcement learning task for evaluating ML engineers on outlier detection and treatment decisions.
 
